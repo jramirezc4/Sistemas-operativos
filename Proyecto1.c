@@ -209,7 +209,7 @@ int main(void) {
     add_history(buf);
 
     if (strcmp(buf, "salir") == 0) {
-      printf(COLOR_WHITE "\nCerrando shell...\n" COLOR_RESET);
+      printf(COLOR_WHITE "\nCerrando eafitos...\n" COLOR_RESET);
       exit(0);
     }
 
